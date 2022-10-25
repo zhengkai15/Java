@@ -79,9 +79,9 @@
 
 6:HelloWorld案例(掌握)
 	(1)写程序
-		class HelloWorld {
+		class HelloWorld_zhusi {
 			public static void main(String[] args) {
-				System.out.println("HelloWorld");
+				System.out.println("HelloWorld_zhusi");
 			}
 		}
 	(2)解释该程序
@@ -89,12 +89,12 @@
 		B:程序要独立运行，必须有主方法，格式是：
 			public static void main(String[] args) { }
 		C:程序要输出内容，必须有输出语句，格式是：
-			System.out.println("HelloWorld");
+			System.out.println("HelloWorld_zhusi");
 	(3)程序的编译和运行
 		A:javac命令编译程序，后面跟的是文件名称
-			javac HelloWorld.java
+			javac HelloWorld_zhusi.java
 		B:java命令执行程序，后面跟的是class文件名称，不含扩展名
-			java HelloWorld
+			java HelloWorld_zhusi
 	(4)一个Java程序的开发流程
 		A:编写Java源程序
 		B:通过javac命令编译java程序，生成字节码文件
@@ -166,7 +166,7 @@
 			一个单词：首字母大写
 				Student,Person,Teacher
 			多个单词：每个单词的首字母大写
-				HelloWorld,MyName,NameDemo
+				HelloWorld_zhusi,MyName,NameDemo
 
 		C:方法或者变量
 			一个单词：全部小写

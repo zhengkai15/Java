@@ -51,7 +51,7 @@
 		C:for循环适用于知道一定范围，while循环更常用于循环次数不一定
 
 *案例
-	A:输出十次"HelloWorld"
+	A:输出十次"HelloWorld_zhusi"
 	B:打印1-10
 	C:打印10到1
 	D:计算1-100之和

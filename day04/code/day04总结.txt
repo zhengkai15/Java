@@ -50,7 +50,7 @@
 	(6)案例：
 		A:输出10次HelloWorld
 			for(int x=0; x<10; x++) {
-				System.out.println("HelloWorld");
+				System.out.println("HelloWorld_zhusi");
 			}
 		B:输出1-10
 			for(int x=1; x<=10; x++) {

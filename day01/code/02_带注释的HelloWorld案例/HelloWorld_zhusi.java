@@ -22,7 +22,7 @@
 */
 //这是我的带注释的HelloWorld案例
 //class用来定义类
-class HelloWorld {
+class HelloWorld_zhusi {
 	/*
 		这是main方法
 		main方法是程序的入口

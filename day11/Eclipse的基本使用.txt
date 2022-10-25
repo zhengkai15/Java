@@ -11,7 +11,7 @@
 		c:创建一个包
 			cn.itcast   
 		d:在包下创建一个类
-			HelloWorld
+			HelloWorld_zhusi
 
 			同时让它帮我们写好了main方法。
 		e:在main方法中写内容即可
